@@ -1,2 +1,2 @@
 # RessourcesGamesApp
-Game of ressource gestion
+Game of ressources gestion
